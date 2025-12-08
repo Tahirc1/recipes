@@ -41,7 +41,7 @@ This repo intends to host community maintained common recipes to run vLLM answer
 
 - [Jina-reranker-m0](Jina/Jina-reranker-m0.md)
 
-### Llama
+### Llama <img src="https://avatars.githubusercontent.com/u/153379578?s=200&v=4" alt="minmax" width="16" height="16" style="vertical-align:middle;">
 
 - [Llama4-Scout](Llama/Llama4-Scout.md)
 - [Llama3.3-70B](Llama/Llama3.3-70B.md)
